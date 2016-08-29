@@ -10,7 +10,6 @@ Below is a list of some tasks that still need to be completed, if you have a pro
 
 | Task              | Description                                                   | Volunteers  | Status         |
 |:-----------------:|:-------------------------------------------------------------:|:-----------:|:--------------:|
-| Design Logo       | Submit a simple logo, submissions will be decided by a vote                | n/a | n/a |
 | Design Website    | A flat info site currently hosted at anastomosis.github.io within the repository | n/a | n/a |
 | Draft Submission Guidelines  | One goal being to reduce labor and making it easier to develop automation tools by standardizing files received from reviewers.      | n/a | n/a |
 | Draft Reviewer Guidelines | Compile a sample of existing reviewer guidelines of and generate a list of guidelines for reviewers. One goal being to reduce labor and making it easier to develop automation tools by standardizing files received from reviewers.     |  n/a  |  n/a |
