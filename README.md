@@ -1,7 +1,7 @@
 # Volunteering
-Are you interested in volunteering to participate in Anastomosis Journal organization as a reviewer, an open source developer or help with organizing? 
+Are you interested in volunteering? We welcome any open source developers and designers interested in helping build the management tools and peer-to-peer software that Anastomosis runs on.
 
-Post below or email (anastomosis@tuta.io)[mailto://anastomosis@tuta.io] with a brief description of the skill set you can offer and someone who is already volunteering can help find available tasks.
+Post below or email [anastomosis@tuta.io](mailto://anastomosis@tuta.io) with a brief description of the skill set you can offer and someone who is already volunteering can help find available tasks.
 
 If you are a scientist interested in reviewing submissions, we recommend you email us directly with  additional information about your educational background.
 
